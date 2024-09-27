@@ -50,4 +50,4 @@ gcc_arm/s-output
 gcc_arm/s-peep
 gcc_arm/s-recog
 gcc_arm/tree-check.h
-
+.direnv
